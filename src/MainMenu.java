@@ -24,7 +24,7 @@ public class MainMenu implements ActionListener{
   frame.setSize(400,400);
   
   JLabel label;
-  label = new JLabel("Current Balance");
+  label = new JLabel("Current Balance");//nice
   label.setBounds(30, 15, 100, 30);
   
   JLabel label2;
